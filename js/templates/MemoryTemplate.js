@@ -13,7 +13,7 @@ define([], function(){
           '<ul>' +
           '<% _.each(assocMemImgs, function(img) { %>' +
             '<li class="assocMemsItem">' +
-              '<a href="#" class="assocMemsLink">' +
+              '<a href="<%= img %>" class="assocMemsLink">' +
                 '<img class="assocMemsImg" src="<%= img %>"/>' +
               '</a>' +
             '</li>' +
