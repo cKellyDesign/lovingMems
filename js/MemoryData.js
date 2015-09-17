@@ -64,7 +64,7 @@ define([], function(){
                      'imgs/assocMems/th/centuryLink_3.jpg',
                      'imgs/assocMems/th/centuryLink_4.jpg']
     },{
-      memTitle: 'The Seattle waterFront',
+      memTitle: 'The Seattle Water Front',
       memDesc: ['Even when under construction, the boardwalk here is my favorite place to simply stroll with you here in the city. With the more popular eclectic shops to the countless hidden gems tucked away in the bowels of the piers I could walk and shop and talk with you here for hours on end!',
                 'With so many memories together at the waterfront of Seattle it’s impossible NOT to think of you and us when even coming close to the water’s edge. From aquatic creatures, peer perched wheels, to cedar clad entertainment, just when we think we’ve seen and done it all there is ever more yet to experience!'],
       memCoverImg: 'imgs/covers/waterFront.jpg',
