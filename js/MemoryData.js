@@ -21,7 +21,7 @@ define([], function(){
                      'imgs/assocMems/th/pikePlace_4a.jpg']
     },{
       memTitle: 'Fun times at Alki',
-      memDesc: ['From the time we first discovered “Ketchup” Pad Thai to bike rides to boat rides, this western tip of Seattle is where we went to get away while still in the city. Definitely my favorite beach in Seattle, I love sharing this niche boardwalk scene with you!',
+      memDesc: ['From the time we first discovered “Ketchup” Pad Thai to bike rides to boat rides, this western tip of Seattle is where we went to get away while still in the city. Definitely my favorite beach IN Seattle, I love sharing this niche boardwalk scene with you!',
                 'From adoring the charm of little beach houses, to openly judging the ugly modern condos, from sipping IPAs to (me) getting COVERED in ice cream, this place is full of memories!',
                 'Whether we ride our bikes like civil pedestrians or go completely off the beaten path as we do, we always seem to end up at exactly the right place, side by side!'],
       memCoverImg: 'imgs/covers/alkiBeach.jpg',
@@ -39,7 +39,7 @@ define([], function(){
     },{
       memTitle: 'Sushi with Sheela at Shilla and Beyond',
       memDesc: ['While this is my favorite sushi place when ranked my namesake, I love that we have toured around Seattle, the country, and the world in search of delectable sushi! From conveyer belts to gourmet, from traditional to fusion to uniquely Kenyan, sushi brings us together wherever we are.',
-                'Perhaps my favorite of all is the first time I took you to sushi, you were perhaps doubtful but certainly unafraid! When you dove in (and like it! (nay LOVED it (PARENTHESIS!!))) I knew then and there you had potential to be the one!'],
+                'Perhaps my favorite of all is the first time I took you to sushi, you may have been doubtful but you were certainly unafraid! When you dove in (and liked it! (nay LOVED it (PARENTHESIS!!))) I knew then and there you had potential to be the one!'],
       memCoverImg: 'imgs/covers/sushiTimes.jpg',
       assocMemImgs: ['imgs/assocMems/th/sushi_2.jpg',
                      'imgs/assocMems/th/sushi_3.jpg']
@@ -75,7 +75,7 @@ define([], function(){
                      'imgs/assocMems/th/waterFront_1.jpg']
     },{
       memTitle: 'Our Beach: Richmond Beach',
-      memDesc: ['Then there is my favorite beach of all, while technically not within the city limits, this is where our story really started to take off! Already it is a of a Mecca of our love as we frequently return to remember our roots together.',
+      memDesc: ['Then there is my favorite beach of all, while technically not within the city limits, this is where our story really started to take off! Already it is a Mecca of our love as we frequently return to remember our roots together.',
                 'From freezing nights where I awkwardly make a fool of myself, to hot summer days wading into the sound, to a summer night where we got naughty in “the love shack”, I will cherish each of our memories in this place for the rest of my days!',
                 'Perhaps best of all, this is where Solid as a Rock became our song for good!'],
       memCoverImg: 'imgs/covers/richmond.jpg',
