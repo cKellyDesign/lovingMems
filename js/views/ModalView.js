@@ -21,7 +21,7 @@ define([
     },
 
     render: function (src) {
-      src = src.replace('th/', '');
+      src = src.replace('th/', '').replace('.JPG', '.jpg');
       this.$el.html(this.template({ imgSrc: src }));
     },
 
