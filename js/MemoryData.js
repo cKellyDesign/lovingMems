@@ -1,16 +1,5 @@
 define([], function(){
   var MemoryData = [{
-      memTitle: 'So many memories...',
-      memSlug: 'seattle',
-      memDesc: ['Though full of love, these memories are only half complete without my other half! Since I am only one half of the equation, I’m sending all my love to you to make it all complete!',
-                'We have so many wonderful, beautiful memories together in this corner of the world it’s hard to capture them all! But just walking through these streets instantly takes me back down memory lane, around every corner is yet another time that I have fallen even more deeply in love with you.',
-                'With so many years to come, and so many adventures yet to be had, I cannot wait to experience them each with you. As we create new memories, let’s remember those that have built our foundation!',
-                'These are just a few... <3'],
-      memCoverImg: 'imgs/covers/needle.jpg',
-      assocMemImgs: ['imgs/assocMems/th/IMG_1352.jpg',
-                     'imgs/assocMems/th/IMG_1358.jpg',
-                     'imgs/assocMems/th/IMG_1363.jpg']
-    },{
       memTitle: 'Happy Valentine\'s Day!!',
       memSlug: 'vday2016',
       memDesc: ['I am truly so blessed to have you in my life, here are just a few of the loving memories we have created together in the last few months! <3'],
@@ -35,7 +24,18 @@ define([], function(){
           'imgs/assocMems/th/20150817_170420.jpg',
           'imgs/assocMems/th/20150817_172834.jpg'
       ]
-    },{
+  },{
+      memTitle: 'So many memories...',
+      memSlug: 'seattle',
+      memDesc: ['Though full of love, these memories are only half complete without my other half! Since I am only one half of the equation, I’m sending all my love to you to make it all complete!',
+          'We have so many wonderful, beautiful memories together in this corner of the world it’s hard to capture them all! But just walking through these streets instantly takes me back down memory lane, around every corner is yet another time that I have fallen even more deeply in love with you.',
+          'With so many years to come, and so many adventures yet to be had, I cannot wait to experience them each with you. As we create new memories, let’s remember those that have built our foundation!',
+          'These are just a few... <3'],
+      memCoverImg: 'imgs/covers/needle.jpg',
+      assocMemImgs: ['imgs/assocMems/th/IMG_1352.jpg',
+          'imgs/assocMems/th/IMG_1358.jpg',
+          'imgs/assocMems/th/IMG_1363.jpg']
+  },{
       memTitle: 'Pike Place Market',
       memSlug: 'pikePlace',
       memDesc: ['Whether it’s a sunny summer day, a chilly winter night, or someone’s special day, we always find a good time at Seattle’s best a market! From sticky walls to underground bars, from corner coffee shops to late-night-pre-departure adventures we have so many memories here.',
