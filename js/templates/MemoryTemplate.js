@@ -5,7 +5,7 @@ define([], function(){
       '<% } else { %>' +
       '<div class="memoryContent full">' +
       '<% } %>' +
-        '<h3><%= memTitle %></h3>' +
+        '<h3 id="<%= memSlug %>"><%= memTitle %></h3>' +
         '<% _.each(memDesc, function(par) { %>' +
           '<p><%= par %></p>' +
         '<% }); %>' +
